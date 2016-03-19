@@ -1,0 +1,124 @@
+@media screen and (max-width: 1187px){
+    .h_category>li{
+        padding:10px 45px;
+    }
+    .on_container{
+        width: 90%;
+    }
+}
+@media screen and (max-width: 1150px){
+    .info_tuch{
+        width: 85%;
+    }
+    .to_left{
+        width: 5%;
+        padding-left: 5%;
+        padding-right: 0;
+    }
+    .to_right{
+        width: 5%;
+        padding-right:5%;
+        padding-left:0;
+    }
+    .services_list{
+        margin-left:-35px;
+    }
+}
+@media screen and (max-width: 1141px){
+    .services_list{
+        margin-left: -5px;
+    }
+    .to_left{
+        padding-left: 3%;
+    }
+    .services_list>li,.h_wending>span{
+        font-size: 23px;
+    }
+}
+@media screen and (max-width: 1107px){
+
+}
+@media screen and (max-width: 1085px){
+    .services_list>li,.h_wending>span{
+        font-size: 21px;
+    }
+    .info_tuch{
+        width: 95%;
+    }
+    .albums{
+        margin-top:120px;
+    }
+}
+@media screen and (max-width: 1062px){
+    .h_category{
+        width: 90%;
+    }
+    .to_left,.to_right{
+        width: 3%;
+    }
+    .to_right>img,.to_left>img{
+        width: 100%;
+    }
+    .services_list{
+        margin-left:0;
+    }
+    .p_tuch>p{
+        padding: 20px 56px;
+    }
+
+}
+@media screen and (max-width: 974px){
+    .info_email{
+       width: 20%;
+    }
+    .info_phone, .info_map{
+        width: 35%;
+    }
+    .to_left,.to_right{
+        display:none;
+    }
+    .services_list{
+        float:none;
+    }
+    .services_list>li,.h_wending>span{
+        font-size: 24px;
+    }
+    .portfolio_img{
+        height: 400px;
+    }
+    .info_wending>span{
+        font-size: 17px;
+    }
+    .p_tuch>p{
+        padding: 15px 40px;
+    }
+
+}
+@media screen and (max-width: 952px){
+    .h_category{
+        width: 100%;
+        float: left;
+    }
+    .h_category>li{
+        padding: 15px 35px;
+    }
+    .h_category>li>a{
+        font-size: 18px;
+    }
+
+    .advantages_main{
+        width: 100%;
+    }
+    .cell_context>p,.cell_context>span{
+        font-size: 18px;
+    }
+    .p_tuch>p{
+         padding: 10px 20px;
+        font-size: 20px;
+     }
+}
+@media screen and (max-width: 899px){
+    .services_list>li{
+        padding: 10px 15px;
+    }
+}
