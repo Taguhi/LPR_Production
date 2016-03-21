@@ -1,5 +1,6 @@
 $(document).ready(function(){
     function all(){
+		var varTaguhi=22;
         var w_width=$(window).width();
         var h_top=$(".top").height();
         var h_official=$(".official").height();
